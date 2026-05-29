@@ -1,0 +1,9 @@
+# Arduino
+*.bin
+*.elf
+*.hex
+build/
+
+# OS
+.DS_Store
+Thumbs.db
